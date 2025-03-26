@@ -1,7 +1,3 @@
-Nice choice—`infosec-blueprints` has a solid, professional ring to it! Here's the updated `README.md` with that name:
-
----
-
 ```markdown
 # 🧱 infosec-blueprints
 
@@ -87,7 +83,3 @@ This project is part of my own lifelong learning process. By writing things down
 
 Inspired by the open-source spirit and all the amazing security practitioners who share their knowledge for the greater good.
 ```
-
----
-
-Let me know if you want a matching `CONTRIBUTING.md` or want this converted into a GitHub Pages site later on.
