@@ -1,85 +1,60 @@
-```markdown
-# 🧱 infosec-blueprints
+# infosec-blueprints
 
-**infosec-blueprints** is an open-source security consulting knowledge base built to empower individuals, IT teams, and small orgs with practical, actionable security resources—no cost, no gatekeeping. This project includes templates, checklists, policies, and guidance grounded in industry best practices and real-world experience.
+**infosec-blueprints** is an open-source knowledge base for practical, real-world information security.  
+It offers templates, checklists, policies, and learning paths designed for individuals, small teams, and homelabbers.
 
-> 🚫 This is not a commercial project. It's a personal mission to grow in knowledge and share freely with others.
-
----
-
-## 📚 What's Inside
-
-- **Security Policy Templates**  
-  Ready-to-adapt policies tailored for small organizations and homelabs.
-
-- **Checklists & Frameworks**  
-  Compliance-oriented and practical checklists (e.g., NIST, CIS, ISO-inspired).
-
-- **Guidance & Playbooks**  
-  Step-by-step guides for common security scenarios and processes.
-
-- **Learning Paths**  
-  Curated roadmaps for beginners, blue teamers, and aspiring CISOs.
-
-- **Tools & Scripts**  
-  Recommendations and simple tools for threat detection, hardening, and more.
+This project exists to support learning — both mine and yours.  
+It’s not a business. It’s not a brand. Just shared growth in the open.
 
 ---
 
-## 🎯 Project Goals
+## Purpose
 
-- 📖 **Learn by doing**  
-  Built as a personal journey to master security through teaching and practice.
+To create clear, reusable security resources that help:
 
-- 🧠 **Make security accessible**  
-  Lower the barrier to entry for anyone wanting to improve their security posture.
-
-- 🤝 **Encourage collaboration**  
-  Contributions, feedback, and pull requests are welcome!
+- Small IT and security teams
+- Aspiring professionals and students
+- Homelab and solo operators
+- Anyone getting started in infosec
 
 ---
 
-## 📁 Repo Structure
+## What's Inside
 
-```bash
-/
-├── policies/
-├── checklists/
-├── playbooks/
-├── tools/
-├── learning-paths/
-└── templates/
-```
+- `policies/` – Editable templates for acceptable use, passwords, onboarding, etc.  
+- `checklists/` – Task lists for projects like MFA rollout, server hardening, and backups  
+- `playbooks/` – Step-by-step guidance for routine security operations and incident response  
+- `templates/` – Blank docs and examples for risk assessments, audits, and reviews  
+- `learning-paths/` – Structured self-study tracks for security fundamentals and beyond  
+- `tools/` – Recommendations and scripts for affordable, effective tooling
 
 ---
 
-## 👥 Who It's For
+## Goals
 
-- Solo sysadmins & small IT/security teams  
-- Students, homelabbers, and early-career cybersecurity pros  
-- Anyone who values security and wants to improve affordably and practically
-
----
-
-## 🙌 Contributing
-
-If you see something outdated, have better ways to do things, or want to share resources—jump in! Issues, discussions, and PRs are always welcome.
+- Learn by doing and sharing
+- Build a helpful resource for others
+- Promote accessible, no-cost security guidance
+- Keep things practical — no fluff, no FUD
 
 ---
 
-## 🧠 Author's Note
+## Contributing
 
-This project is part of my own lifelong learning process. By writing things down and sharing them, I reinforce my understanding and hopefully help others along the way.
-
----
-
-## 📜 License
-
-[MIT License](LICENSE)
+Suggestions and improvements are always welcome.  
+If you’ve got a better template, clearer wording, or a useful checklist — submit a PR or open an issue.
 
 ---
 
-## 🔗 Shoutouts
+## License
 
-Inspired by the open-source spirit and all the amazing security practitioners who share their knowledge for the greater good.
-```
+MIT — free to use, modify, and share.
+
+---
+
+## Acknowledgments
+
+This project stands on the shoulders of the open-source community.  
+Thanks to everyone who’s ever shared a repo, policy, diagram, or thread to make infosec more approachable.
+
+> Security is a practice. Let's make it better together.
