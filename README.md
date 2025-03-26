@@ -1,60 +1,60 @@
-# infosec-blueprints
+# 🧱 infosec-blueprints
 
-**infosec-blueprints** is an open-source knowledge base for practical, real-world information security.  
-It offers templates, checklists, policies, and learning paths designed for individuals, small teams, and homelabbers.
+**infosec-blueprints** is an open-source knowledge base for real-world information security.  
+It includes templates, checklists, policies, playbooks, and learning paths — all designed for individuals, small teams, and homelabbers.
 
-This project exists to support learning — both mine and yours.  
-It’s not a business. It’s not a brand. Just shared growth in the open.
-
----
-
-## Purpose
-
-To create clear, reusable security resources that help:
-
-- Small IT and security teams
-- Aspiring professionals and students
-- Homelab and solo operators
-- Anyone getting started in infosec
+> 🛠️ Built to grow my own skills and give back to the community.  
+> 💸 Not for profit. Just knowledge shared openly.
 
 ---
 
-## What's Inside
+## 🎯 Purpose
 
-- `policies/` – Editable templates for acceptable use, passwords, onboarding, etc.  
-- `checklists/` – Task lists for projects like MFA rollout, server hardening, and backups  
-- `playbooks/` – Step-by-step guidance for routine security operations and incident response  
-- `templates/` – Blank docs and examples for risk assessments, audits, and reviews  
-- `learning-paths/` – Structured self-study tracks for security fundamentals and beyond  
-- `tools/` – Recommendations and scripts for affordable, effective tooling
+To provide clear, reusable resources that help:
 
----
-
-## Goals
-
-- Learn by doing and sharing
-- Build a helpful resource for others
-- Promote accessible, no-cost security guidance
-- Keep things practical — no fluff, no FUD
+- 🧑‍💻 Aspiring security professionals  
+- 🏠 Homelab and solo operators  
+- 🏢 Small IT and security teams  
+- 🎓 Students and self-learners
 
 ---
 
-## Contributing
+## 📦 What's Inside
 
-Suggestions and improvements are always welcome.  
-If you’ve got a better template, clearer wording, or a useful checklist — submit a PR or open an issue.
+- `policies/` – Templates for passwords, onboarding, acceptable use, and more  
+- `checklists/` – Step-by-step security task lists (e.g., MFA, backups, server hardening)  
+- `playbooks/` – Practical how-tos for security ops and incident response  
+- `templates/` – Risk assessments, audit forms, and other security docs  
+- `learning-paths/` – Structured guides to build foundational and advanced skills  
+- `tools/` – Scripts, links, and low-cost security recommendations
 
 ---
 
-## License
+## 🧠 Goals
+
+- Learn by documenting and sharing
+- Make infosec more accessible to everyone
+- Promote practical security without gatekeeping
+- Keep things real — no fluff, no FUD
+
+---
+
+## 🤝 Contributing
+
+Pull requests, issues, and feedback are welcome!  
+Whether it's a better checklist, updated policy language, or just a typo fix — your help is appreciated.
+
+---
+
+## 📜 License
 
 MIT — free to use, modify, and share.
 
 ---
 
-## Acknowledgments
+## 🙏 Acknowledgments
 
-This project stands on the shoulders of the open-source community.  
-Thanks to everyone who’s ever shared a repo, policy, diagram, or thread to make infosec more approachable.
+Thanks to the open-source community and every practitioner who’s shared knowledge before me.  
+This wouldn’t exist without you.
 
-> Security is a practice. Let's make it better together.
+> 🧩 Security is a puzzle — we learn more by solving it together.
